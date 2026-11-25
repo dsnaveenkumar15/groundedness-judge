@@ -1,0 +1,7 @@
+{
+ "title": "NLI DeBERTa-v3-small (off the shelf)",
+ "size_mb": 568,
+ "device": "Tesla T4",
+ "prob": true,
+ "sample": 1.0
+}

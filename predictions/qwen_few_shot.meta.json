@@ -1,0 +1,15 @@
+{
+ "title": "Qwen2.5-1.5B base, 4-shot",
+ "base_model": "Qwen/Qwen2.5-1.5B-Instruct",
+ "prob": true,
+ "size_mb": 1122,
+ "shots": [
+  "hagrid-302-1",
+  "hagrid-353-1",
+  "hagrid-2493-0",
+  "hagrid-2229-0"
+ ],
+ "adapter_mb": 0,
+ "device": "Tesla T4",
+ "peak_gpu_mb": 3272
+}

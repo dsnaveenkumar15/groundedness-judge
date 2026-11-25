@@ -1,0 +1,13 @@
+# Exact pins. Core versions equal Colab runtime 2026.07 (Python 3.12, torch 2.11.0+cu128);
+# only trl and bitsandbytes are added on top. Resolved together with `uv pip compile` on 2026-11-24.
+transformers==5.13.1
+peft==0.19.1
+accelerate==1.14.0
+datasets==4.0.0
+tokenizers==0.22.2
+huggingface_hub==1.23.0
+safetensors==0.8.0
+numpy==2.0.2
+scikit-learn==1.6.1
+scipy==1.16.3
+trl==0.29.1

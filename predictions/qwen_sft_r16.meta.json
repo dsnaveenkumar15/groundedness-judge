@@ -1,0 +1,10 @@
+{
+ "title": "Qwen2.5-1.5B + QLoRA SFT r=16",
+ "base_model": "Qwen/Qwen2.5-1.5B-Instruct",
+ "prob": true,
+ "size_mb": 1196,
+ "shots": [],
+ "adapter_mb": 73.9,
+ "device": "Tesla T4",
+ "peak_gpu_mb": 2801
+}

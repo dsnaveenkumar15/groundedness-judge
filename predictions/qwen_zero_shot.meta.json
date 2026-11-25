@@ -1,0 +1,10 @@
+{
+ "title": "Qwen2.5-1.5B base, zero-shot",
+ "base_model": "Qwen/Qwen2.5-1.5B-Instruct",
+ "prob": true,
+ "size_mb": 1122,
+ "shots": [],
+ "adapter_mb": 0,
+ "device": "Tesla T4",
+ "peak_gpu_mb": 2242
+}

@@ -1,0 +1,13 @@
+.venv/
+data/
+*.zip
+__pycache__/
+.pytest_cache/
+.smoke/
+*.log
+HANDOFF.md
+runs/
+results_bundle.zip
+pip-freeze.txt
+groundedness-judge-colab/
+docs/learn.md
